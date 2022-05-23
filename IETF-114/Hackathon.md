@@ -2,7 +2,7 @@ IETF 114 will take place in Philadelphia, USA, in July 2022 [https://www.ietf.or
 will take place [https://trac.ietf.org/trac/ietf/meeting/wiki/114hackathon]. 
 
 *Proposed Scope*:
-- Test application interoperation (and hack apps as needed) against a working Cable Modem Termination System (CMTS) (fallback will be a virtual access network)
+- Test application interoperation and end host implementations for different transport protocols (i.e. TCP, QUIC, RTP) against a working Cable Modem Termination System (CMTS) (fallback will be a virtual access network)
 - Test WiFi access points, home routers and gateways, and other devices on an L4S-capable network
 - Build other L4S-related apps, such as L4S compliance check apps, etc.
 - TBD
